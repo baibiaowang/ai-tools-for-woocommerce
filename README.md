@@ -1,6 +1,6 @@
 # AI Tools — Store Infrastructure over MCP
 
-https://img.shields.io/badge/WordPress-6.9%2B-21759b?style=flat-square&logo=wordpress&logoColor=white) https://img.shields.io/badge/WooCommerce-96588a?style=flat-square&logo=woocommerce&logoColor=white) https://img.shields.io/badge/PHP-8.0%2B-777bb4?style=flat-square&logo=php&logoColor=white) https://img.shields.io/badge/License-GPL--2.0--or--later-blue?style=flat-square)
+![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-21759b?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-8.0%2B-777bb4?style=flat-square) ![License](https://img.shields.io/badge/License-GPL--2.0--or--later-blue?style=flat-square)
 
 **A WordPress plugin that replaces the pile of small utility plugins a WooCommerce store usually installs — and exposes them to an AI agent through MCP.**
 
