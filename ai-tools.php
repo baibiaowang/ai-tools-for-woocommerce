@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: AI Tools (Store Infrastructure)
+ * Plugin Name: AI Tools for WooCommerce (Store Infrastructure)
  * Description: Self-contained replacements for the small plugins a store would otherwise install: database + uploads backups, API mail (SES/Mailgun/Postmark), cookie consent + CPRA/GPC, consent-gated ad pixels with server-side Meta CAPI / TikTok Events API / GA4 Measurement Protocol, an optional page cache, a Google Merchant catalog feed, login hardening, email-notification switches and a compliance toolkit (age gate, Prop 65, accessibility) — so no separate backup/mail/consent/pixel/cache/compliance plugins are needed.
  * Version: 1.1.0
  * Requires at least: 6.9
