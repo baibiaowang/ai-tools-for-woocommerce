@@ -1,4 +1,4 @@
-# AI Tools — Store Infrastructure over MCP
+# AI Tools for WooCommerce — Store Infrastructure over MCP
 
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-21759b?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-8.0%2B-777bb4?style=flat-square) ![License](https://img.shields.io/badge/License-GPL--2.0--or--later-blue?style=flat-square)
 
@@ -102,9 +102,9 @@ wp hark-store mail ...
 
 | Repo | Role |
 |---|---|
-| [aihand](https://github.com/baibiaowang/aihand-for-woocommerce) | Store operations — the day-to-day work |
-| [aidesign](https://github.com/baibiaowang/aidesign-for-woocommerce) | Storefront look |
-| **aitools** (this repo) | Store infrastructure — what this plugin does |
+| [ai-hand](https://github.com/baibiaowang/ai-hand-for-woocommerce) | Store operations — the day-to-day work |
+| [ai-design](https://github.com/baibiaowang/ai-design-for-woocommerce) | Storefront look |
+| **ai-tools** (this repo) | Store infrastructure — what this plugin does |
 
 All three share `hsm-core.php` and can be active together.
 
